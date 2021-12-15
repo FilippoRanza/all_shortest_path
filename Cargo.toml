@@ -1,13 +1,13 @@
 [package]
 name = "all_shortest_path"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Filippo Ranza <filipporanza@gmail.com>"]
 license = "MIT"
 description = "A simple Floyd-Warshall algorithm implementation"
 repository = "https://github.com/FilippoRanza/all_shortest_path"
 keywords = ["floyd-warshall", "graph", "shortest-path", "path"]
-
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
