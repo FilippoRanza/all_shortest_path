@@ -12,6 +12,6 @@ keywords = ["floyd-warshall", "graph", "shortest-path", "path"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-ndarray = "*"
-num-traits = "*"
+ndarray = "0.15"
+num-traits = "0.2"
 
